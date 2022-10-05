@@ -1,5 +1,5 @@
 # Underwater-Object-Detection-via-Channel-Stablization
-he complex marine environment exacerbates the
+he complex marine environment exacerbates the 
 challenges of object detection manifold. With the advent of the
 modern era, marine trash presents a danger to the aquatic
 ecosystem, and it has always been challenging to address this
@@ -31,4 +31,4 @@ those from Deformable Transformer. The detection result for
 small size objects in the Instance-version of TrashCan 1.0 gives us a
 9.53\% absolute increase, in average precision while for the bounding
 box we get the absolute gain of 7\% compared
-to the baseline.\\  
+to the baseline. 
