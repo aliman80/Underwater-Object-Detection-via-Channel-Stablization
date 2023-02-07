@@ -3,3 +3,4 @@ The complex marine environment exacerbates the hallenges of object detection man
 ## Channel Stablizaition method
 ## Using simplified RGHS method
 ## Using Detectron2 for Comparison
+<img width="882" alt="Screen Shot 2023-02-07 at 6 48 46 PM" src="https://user-images.githubusercontent.com/57188476/217277849-cc3d6a19-75ad-4310-8ae2-73356e066502.png">
