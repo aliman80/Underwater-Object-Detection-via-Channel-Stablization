@@ -54,8 +54,8 @@ Application of **Channel Stabilization** to reduce the dominance of blue color u
 ### 3. Detection using Detectron2  
 We explored different backbones within Detectron2, including **RetinaNet** and **Faster R-CNN**.  
 
-![Detectron2 Example](insert-your-image-path-here)  
-*(Screenshot: Detectron2 backbone comparison results)*  
+![Detectron2 Example](https://user-images.githubusercontent.com/57188476/217277849-cc3d6a19-75ad-4310-8ae2-73356e066502.png)   
+
 
 ---
 
