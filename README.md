@@ -13,3 +13,10 @@ Application of Channel stablzation method to reduce the dominance of blue colour
 ## Using Detectron2 for Comparison
 Then we use Detectron2 for our detection , we use different backbones including RetinaNet and FasterRCNN.
 <img width="882" alt="Screen Shot 2023-02-07 at 6 48 46 PM" src="https://user-images.githubusercontent.com/57188476/217277849-cc3d6a19-75ad-4310-8ae2-73356e066502.png">
+
+@misc{ali2023underwater,
+  title={Underwater Object Detection via Channel Stabilization},
+  author={Ali, Muhammad and collaborators},
+  year={2023},
+  howpublished={\url{https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stabilization}}
+}
