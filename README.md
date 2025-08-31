@@ -40,15 +40,14 @@ Preprocessing input images using the **Relative Global Histogram Stretching (RGH
 Preprocessing input images using the **Relative Global Histogram Stretching (RGHS)** method.  
 
 ![RGHS Example](https://user-images.githubusercontent.com/57188476/217282454-064a850b-547f-472f-a6be-3705045f3f07.png)  
-*(Screenshot: Preprocessing of the given input image using Relative Global Histogram model)*  
+
 
 ---
 
 ### 2. Channel Stabilization  
 Application of **Channel Stabilization** to reduce the dominance of blue color underwater, improving classification and detection of submerged waste.  
 
-![Channel Stabilization Example](insert-your-image-path-here)  
-*(Screenshot: Application of channel stabilization method)*  
+(![Channel Stabilization Example](https://user-images.githubusercontent.com/57188476/217283088-68826e81-27fc-425d-a3bb-755c44d71353.png)  
 
 ---
 
