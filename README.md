@@ -36,7 +36,7 @@ To ensure the safety of the marine environment, underwater object detection is a
 ### 1. Preprocessing with RGHS  
 Preprocessing input images using the **Relative Global Histogram Stretching (RGHS)** method.  
 
-![RGHS Example](insert-your-image-path-here)  
+![RGHS Example](<img width="243" alt="Screen Shot 2023-02-07 at 7 06 10 PM" src="https://user-images.githubusercontent.com/57188476/217282454-064a850b-547f-472f-a6be-3705045f3f07.png">)  
 *(Screenshot: Preprocessing of the given input image using Relative Global Histogram model)*  
 
 ---
